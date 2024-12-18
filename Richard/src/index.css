@@ -1,0 +1,14 @@
+
+body {
+  background-attachment: fixed;
+  background-image:url(rickymorty.jpg) ;
+  width: 100%;
+  display: grid;
+  margin-top: 0;
+  background-size: cover;
+  box-sizing: border-box;
+  height: 100vh;
+  font-family: Raleway, sans-serif;
+  
+}
+

@@ -1,0 +1,59 @@
+.helado{
+  background-color: #223142;
+    height: 470px;
+    margin: 8px;
+    padding: 8px;
+    width: fit-content;
+    display: flex;
+  flex-direction: column; 
+  justify-content: center;
+}
+.wpp{width: 300px;}
+
+.monu{background-color: #6eccaf !important;
+    color: #344d67;
+    
+  }
+
+  .ohana {
+    position: relative; 
+    justify-content: center; 
+   display: flex;
+    
+  }
+
+  .pol{color: #6eccaf !important;
+
+    font-size: 32px;}
+ 
+
+
+.oy{
+  
+  background-color: #6eccaf
+}
+  
+.oye{
+  justify-content: end; 
+ display: flex;
+}
+
+.lises{background: none;
+  align-items: start;
+  justify-content: center;
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  color: #fff;
+    border: none;
+    height: 80px;
+  margin-left: 20px;
+  margin-right: 50px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.lises:hover{
+  background-color: #6eccaf; 
+      color:#344d67;
+      cursor: pointer
+    }

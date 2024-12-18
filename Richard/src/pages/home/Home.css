@@ -1,0 +1,31 @@
+.container{background-color: #ffffffe6;
+    height: 600px;
+    width: 600px;
+    color: #344d67;
+    
+}
+
+h1{font-size: 40px;
+   font-weight: 100;
+    margin-top: 65px;
+    
+}
+
+h2{font-weight: 300;
+    font-size: 32px;
+    margin-top: 1.5rem
+}
+
+@media (max-width: 800px) {
+    h2{
+      color: #6eccaf;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .c3po{
+        align-items: center;
+        gap: 0;
+        margin-top: 25px;
+    }
+}
